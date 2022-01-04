@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F3F3F3">
+
+
+    <ImageView
+        android:id="@+id/MainActivity_Logo"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_margin="15dp"
+        android:src="@drawable/app_icon">
+
+    </ImageView>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Final project"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textAlignment="center"></TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="@dimen/dp_16"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:background="#636363"></View>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_16"
+            android:src="@drawable/ic_info"/>
+        <TextView
+            android:id="@+id/MainActivity_Abous"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_16"
+            android:layout_weight="1"
+            android:padding="12dp"
+            android:text="About us" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_16"
+            android:src="@drawable/ic_setting"/>
+        <TextView
+            android:id="@+id/MainActivity_setting"
+            android:layout_width="353dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_16"
+            android:layout_weight="1"
+            android:padding="12dp"
+            android:text="Cài đặt" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <Button
+            android:id="@+id/MainActivity_logout"
+            android:layout_width="358dp"
+            android:layout_height="wrap_content"
+
+            android:layout_marginStart="@dimen/dp_16"
+            android:layout_weight="1"
+            android:backgroundTint="#FFFFFF"
+            android:padding="12dp"
+            android:text="Thoát ứng dụng"
+            android:layout_marginEnd="17dp"
+            android:textAlignment="center"
+            android:textColor="#F60606"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>

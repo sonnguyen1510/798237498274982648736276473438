@@ -1,0 +1,35 @@
+1-Biển nào cấm người đi bộ?-26-31-32-Biển 1-Biển 1 và 3-Biển 2-Biển 2 và 3-BienBao-3
+2-Gặp biển nào người lái xe phải nhường đường cho người đi bộ?-26-31-32-Biển 1-Biển 3-Biển 2-Biển 1 và 3-BienBao-1
+3-Biển nào chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này?-26-31-32-Biển 1-Biển 1 và 3-Biển 3-Cả 3 biển-BienBao-3
+4-Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?-33-34-35-Biển 1 và 2-Biển 2 và 3-Biển 1-Cả 3 biển-BienBao-2
+5-Biển nào báo hiệu sắp đến chỗ giao nhau với đường sắt có rào chắn?-36-34-35-Biển 1-Biển 2 và 3-Biển 3-null-BienBao-1
+6-Biển nào báo hiệu giao nhau có tín hiệu đèn?-36-34-35-Biển 2-Biển 1-Biển 3-Cả 3 biển-3
+7-Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?-36-37-38-Biển 1 và 3-Biển 1 và 2-Biển 2 và 3-Cả 3 biển-BienBao-1
+8-Biển nào báo hiệu đường sắt giao nhau với đường bộ không có rào chắn?-36-39-38-Biển 1 và 2-Biển 2 và 3-Biển 1 và 3-Cả 3 biển-BienBao-2
+9-Biển nào báo hiệu “Hết đoạn đường ưu tiên”?-40-34-41-Biển 3-Biển 1-Biển 2-null-BienBao-1
+10-Biển nào báo hiệu, chỉ dẫn xe đi trên đường này được quyền ưu tiên qua nơi giao nhau?-40-34-42-Biển 1 và 2-Biển 1 và 3-Cả 3 biển-Biển 2 và 3-BienBao-2
+11-Biển nào báo hiệu giao nhau với đường không ưu tiên?-40-34-42-Biển 1-Biển 2 và 3-Biển 2-Biển 3-BienBao-1
+12-Biển nào báo hiệu giao nhau với đường ưu tiên?-40-34-42-Biển 1 và 3-Biển 2-Biển 3-null-BienBao-2
+13-Biển nào báo hiệu giao nhau với đường ưu tiên?-43-40-34-Biển 1-Biển 3-Biển 2-Cả 3 biển-BienBao-2
+14-Biển nào báo hiệu “Đường giao nhau” của các tuyến đường cùng cấp?-43-40-34-Biển 1-Biển 3-Biển 2-null-BienBao-1
+15-Biển nào báo hiệu giao nhau với đường không ưu tiên?-43-40-34-Biển 1-Biển 2-Biển 3-null-BienBao-2
+16-Biển nào báo hiệu đường hai chiều?-44-1-2-Biển 1-Biển 2-Biển 3-null-BienBao-1
+17-Biển nào báo hiệu phải giảm tốc độ, nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp?-44-1-2-Biển 1-Biển 2-Biển 3-null-BienBao-2
+18-Biển nào chỉ dẫn được ưu tiên qua đường hẹp?-44-1-2-Biển 1-Biển 2-Biển 3-Biển 2 và 3-BienBao-3
+19-Biển nào báo hiệu cấm xe mô tô ba bánh đi vào?-3-4-5-Biên 1 và 3-Biển 1 và 2-Biển 2 và 3-null-BienBao-2
+20-Biển nào báo hiệu cấm xe mô tô hai bánh đi vào?-3-4-5-Biển 1-Biển 2-Biển 3-null-BienBao-1
+21-Khi gặp biển nào thì xe mô tô hai bánh được đi vào?-3-4-5-Không biển nào-Biển 1 và 2-Biển 2 và 3-Cả 3 biển-BienBao-3
+22-Biển nào xe mô tô hai bánh được đi vào?-9-7-8-Biển 1 và 2-Biển 1 và 3-Biển 2 và 3-null-BienBao-2
+23-Biển nào xe mô tô hai bánh không được đi vào?-9-7-8-Biển 1-Biển 2-Biển 3-null-BienBao-2
+24-Ba biển này có ý nghĩa hiệu lực như thế nào?-9-7-10-Cấm các xe ở biển phụ đi vào-Cấm các loại xe cơ giới trừ xe ở biển phụ-null-null-BienBao-1
+25-Biển nào cấm quay xe?-11-null-12-Biển 1-Biển 2-Không biển nào-Cả 2 biển-BienBao-4
+26-Biển nào cấm xe rẽ trái?-11-null-12-Biển 1-Biển 2-Cả 2 biển-Không biển nào-BienBao-1
+27-Khi gặp biển nào xe được rẽ trái?-11-null-12-Biển 1-Biển 2-Cả 2 biển-Không biển nào-BienBao-2
+28-Khi gặp biển nào xe ưu tiên theo luật định vẫn phải dừng lại?-13-14-15-Biển 1-Biển 2-Cả 3 biển-null-BienBao-2
+29-Khi đến chỗ giao nhau, gặp biển nào thì người lái xe không được cho xe đi thẳng, phải rẽ sang hướng khác?-17-18-19-Biển 1 và 3-Biển 2 và 3-Biển 1 và 2-Cả 3 biển-BienBao-3
+30-Khi gặp biển này, xe lam và mô tô ba bánh có được phép rẽ trái hay rẽ phải hay không?-null-16-null-Được phép-Không được phép-null-null-BienBao-2
+31-Biển này có hiệu lực đối với xe mô tô hai, ba bánh không?-null-16-null-Có-Không-null-null-BienBao-1
+32-Biển nào báo hiệu cầu vượt liên thông?-20-21-22-Biển 2 và 3-Biển 1 và 2-Biển 1 và 3-Cả 3 biển-BienBao-3
+33-Biển nào báo hiệu đoạn đường hay xảy ra tai nạn?-40-23-24-Biển 1-Biển 2-Biển 2 và 3-null-BienBao-2
+34-Biển nào báo hiệu tuyến đường cầu vượt cắt qua?-25-21-27-Biển 1 và 2-Biển 1 và 3-Biển 2 và 3-null-BienBao-1
+35-Biển nào chỉ dẫn tên đường trên các tuyến đường đối ngoại?-28-29-30-Biển 1-Biển 2-Biển 3-Biển 1 và 2-BienBao-3

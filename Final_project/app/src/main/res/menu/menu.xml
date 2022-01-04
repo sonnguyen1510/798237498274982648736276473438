@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="UI.Option.Search_traffic_signs">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+
+        android:icon="@drawable/setting"
+        app:showAsAction="always"
+        android:title="@string/app_name" />
+</menu>

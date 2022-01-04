@@ -1,0 +1,35 @@
+1-Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?-Xe tải, xe lam, xe con, mô tô.-Xe tải, mô tô, xe lam, xe con.-Xe lam, xe tải, xe con, mô tô.-Mô tô, xe lam, xe tải, xe con.-1-SaHinh-2
+2-Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?-Xe tải, xe lam, mô tô.-Xe lam, xe tải, mô tô.-Mô tô, xe lam, xe tải.-Xe lam, mô tô, xe tải.-2-SaHinh-3
+3-Trường hợp này xe nào được quyền đi trước?-Mô tô.-Xe con.-null-null-3-SaHinh-2
+4-Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?-Xe lam, xe cứu thương, xe con.-Xe cứu thương, xe con, xe lam.-Xe con, xe lam, xe cứu thương.-null-4-SaHinh-1
+5-Xe nào được quyền đi trước trong trường hợp này?-Mô tô.-Xe cứu thương.-null-null-5-SaHinh-2
+6-Theo tín hiệu đèn, xe nào được phép đi?-Xe con và xe khách.-Mô tô.-null-null-6-SaHinh-1
+7-Theo tín hiệu đèn, xe nào được quyền đi là đúng quy tắc giao thông?-Xe khách, mô tô.-Xe tả, mô tô-Xe con, xe tải.-null-7-SaHinh-2
+8-Các xe đi theo mũi tên, xe nào vi phạm quy tắc giao thông?-Xe khách, xe tải, mô tô.-Xe tải, xe con, mô tô.-Xe khách, xe con, mô tô.-null-8-SaHinh-1
+9-Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?-Xe khách, xe tải, mô tô, xe con.-Xe con, xe khách, xe tải, mô tô.-Mô tô, xe tải, xe con, xe khách.-Mô tô, xe tải, xe khách, xe con.-9-SaHinh-4
+10-Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?-Xe tải.-Xe con và mô tô.-Cả 3 xe.-Xe con và xe tải.-10-SaHinh-1
+11-Xe nào được quyền đi trước?-Xe tải.-Xe con.-Xe lam.-null-11-SaHinh-2
+12-Theo mũi tên, những hướng nào xe gắn máy đi được?-Cả 3 hướng.-Hướng 1 và 3.-Chỉ hướng 1.-null-12-Sahinh-1
+13-Xe nào đỗ vi phạm quy tắc giao thông?-Chỉ xe mô tô vi phạm.-Chỉ xe tải vi phạm.-Không xe nào vi phạm.-Cả 2 xe.-13-SaHinh-4
+14-Xe nào đỗ vi phạm quy tắc giao thông?-Mô tô.-Xe tải.-Cả 3 xe.-Mô tô và xe tải.-14-SaHinh-3
+15-Xe tải kéo mô tô ba bánh như hình này có đúng quy tắc giao thông không?-Đúng.-Không đúng-null-null-15-SaHinh-2
+16-Xe nào được quyền đi trước trong trường hợp này?-Xe lam.-Xe xích lô.-null-null-16-SaHinh-2
+17-Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?-Xe lam, mô tô, xe con, xe đạp.-Xe con, xe đạp, mô tô, xe lam.-Xe lam, xe con, mô tô + xe đạp-Mô tô + xe đạp, xe lam, xe con.-17-SaHinh-4
+18-Xe nào được quyền đi trước trong trường hợp này?-Mô tô.-Xe con.-null-null-18-SaHinh-1
+19-Xe nào vi phạm quy tắc giao thông?-Xe khách.-Mô tô.-Xe con.-Xe con và mô tô.-19-SaHinh-3
+20-Các xe đi như thế nào là đúng quy tắc giao thông?-Các xe ở phía tay phải và tay trái của người điều khiển được phép đi thẳng.-Cho phép các xe ở mọi hướng được rẽ phải.Tất cả các xe phải dừng lại trước ngã tư, trừ những xe đã ở trong ngã tư được phép tiếp tục đi.-null-20-SaHinh-3
+21-Theo hướng mũi tên, xe nào được phép đi-Mô tô, xe con.-Xe con, xe tai.-Mô tô, xe tải.-Cả 3 xe.-21-SaHinh-3
+22-Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?-Xe khách, mô tô.-Tất cả các loại xe trên.-Không xe nào chấp hành đúng quy tắc giao thông.-null-22-SaHinh-2
+23-Theo hướng mũi tên, những hướng nào xe mô tô được phép đi.-Cả ba hướng.-Hướng 1 và 2.-Hướng 1 và 3.-Hướng 2 và 3.-23-SaHinh-3
+24-Trong trường hợp này, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?-Xe công an, xe quân sự, xe con + mô tô.-Xe quân sự, xe công an, xe con + mô tô.-Xe mô tô + xe con, xe quân sự, xe công an.-null-24-SaHinh-2
+25-Trong hình dưới, những xe nào vi phạm quy tắc giao thông?-Xe con (E), mô tô (C).-Xe tải (A), mô tô (D).-Xe khách (B), mô tô (C).-Xe khách (B), mô tô (D).-25-SaHinh-1
+26-Trong hình dưới, những xe nào vi phạm quy tắc giao thông?-Xe con (B), mô tô (C).-Xe con (A), mô tô (C).-Xe con (E), mô tô (D).-Tất cả các loại xe trên.-26-SaHinh-3
+27-Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?-Xe khách, mô tô.-Xe tải, mô tô.-Xe con, xe tải.-null-27-SaHinh-3
+28-Bạn có được phép vượt xe mô tô phía trước không?-Cho phép.-Không cho phép.-null-null-28-SaHinh-2
+29-Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?-Xe mô tô.-Xe ô tô con.-Không xe nào vi phạm.-Cả 2 xe đều vi phạm.-29-SaHinh-4
+30-Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?-Xe con.-Xe tải.-Xe con, xe tải.-null-30-SaHinh-2
+31-Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?-Xe tải, xe con.-Xe khách, xe con.-Xe khách, xe tải.-null-31-SaHinh-3
+32-Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?-Xe con, xe tải, xe khách.-Xe tải, xe khách, xe mô tô.-Xe khách, xe mô tô, xe con.-Cả bốn xe.-32-SaHinh-2
+33-Các xe đi theo hướng mũi tên, xe nào chấp hành đúng quy tắc giao thông?-Xe tải, mô tô.-Xe khách, mô tô.-Xe tải, xe con.- Mô tô, xe con.-33-SaHinh-2
+34-Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?-Xe của bạn, mô tô, xe con.-Xe con, xe của bạn, mô tô.-Mô tô, xe con, xe của bạn.-null-34-SaHinh-3
+35-Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?-Xe của bạn, mô tô, xe con.-Xe con, xe của bạn, mô tô.-Mô tô, xe con, xe của bạn.-null-35-SaHinh-2
