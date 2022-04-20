@@ -1,5 +1,7 @@
 # Note
 Ứng dụng học bằng lái xe B!
 
-using Android Studio
+Sử dụng Android Studio
+Database : SQLite ( Local server)
+Ngôn ngữ: Java
 
